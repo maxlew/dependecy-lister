@@ -2,7 +2,7 @@
 Handy for when some compliance team asks you for a CSV of all your dependencies. Note that this is just top level dependencies, I should add an option to parse the package-lock to list out dependencies of dependencies.
 
 ## Installing
-I've commited the build node-14-mac executeable to make life a little easier for some people.
+I've commited the built 'node-14-mac' executeable to make life a little easier for some people.
 It's handy to copy the built executable to your bin folder so you can use it anywhere. To do this run
 
 ```
